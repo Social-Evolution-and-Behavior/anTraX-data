@@ -1,0 +1,175 @@
+17:49:41 -I- Reading video information from file
+17:49:43 -I- solving graph from movies 1-6
+17:49:43 -I- Loading trgraph from antrax_demo/graphs/graph_1_1.mat
+17:49:43 -I- Loading trgraph from antrax_demo/graphs/graph_2_2.mat
+17:49:44 -I- Loading trgraph from antrax_demo/graphs/graph_3_3.mat
+17:49:45 -I- Loading trgraph from antrax_demo/graphs/graph_4_4.mat
+17:49:45 -I- Loading trgraph from antrax_demo/graphs/graph_5_5.mat
+17:49:45 -I- Loading trgraph from antrax_demo/graphs/graph_6_6.mat
+17:49:46 -I- Finished loading trgraph with 1462 tracklets
+17:49:46 -I- Loading ids
+17:49:46 -I- Finding single ant nodes
+17:49:47 -I- Some preperations
+17:49:47 -I- Resetting graph id assigments
+17:49:47 -I- Filtering out tracklets identified as non-ant
+17:49:47 -I- ...0 tracklets classified as no-ant were filtered
+17:49:47 -I- ...0 short, unconnected and unidentified tracklets were filtered
+17:49:47 -I- Propagating ids from src tracklets
+17:49:47 -I- Propagation loops
+17:49:47 -I-     ...assigned 383 tracklets
+17:49:47 -I-     ...assigned 1 tracklets
+17:49:47 -I-     ...assigned 0 tracklets
+17:49:47 -I- Biconnected components condition (positive)
+17:49:48 -I-     ...assigned 422 tracklets
+17:49:49 -I-     ...assigned 107 tracklets
+17:49:50 -I-     ...assigned 42 tracklets
+17:49:50 -I-     ...assigned 0 tracklets
+17:49:50 -I- More propagation loops
+17:49:50 -I-     ...assigned 0 tracklets
+17:49:50 -I- Filtering by connected componnets
+17:49:50 -I- ...working on BB
+17:49:50 -I- ......found 110 cc's 
+17:49:50 -I- ......filtered 107 cc's
+17:49:51 -I- ......pruned 63 nodes
+17:49:51 -I- ...working on BG
+17:49:51 -I- ......found 61 cc's 
+17:49:51 -I- ......filtered 58 cc's
+17:49:51 -I- ......pruned 29 nodes
+17:49:51 -I- ...working on BO
+17:49:51 -I- ......found 78 cc's 
+17:49:51 -I- ......filtered 76 cc's
+17:49:51 -I- ......pruned 44 nodes
+17:49:51 -I- ...working on BP
+17:49:51 -I- ......found 8 cc's 
+17:49:51 -I- ......filtered 7 cc's
+17:49:51 -I- ......pruned 2 nodes
+17:49:51 -I- ...working on GB
+17:49:51 -I- ......found 2 cc's 
+17:49:51 -I- ......filtered 0 cc's
+17:49:51 -I- ......pruned 0 nodes
+17:49:51 -I- ...working on GG
+17:49:51 -I- ......found 35 cc's 
+17:49:51 -I- ......filtered 21 cc's
+17:49:51 -I- ......pruned 27 nodes
+17:49:51 -I- ...working on GO
+17:49:51 -I- ......found 92 cc's 
+17:49:51 -I- ......filtered 90 cc's
+17:49:51 -I- ......pruned 50 nodes
+17:49:51 -I- ...working on GP
+17:49:51 -I- ......found 101 cc's 
+17:49:51 -I- ......filtered 98 cc's
+17:49:51 -I- ......pruned 63 nodes
+17:49:51 -I- ...working on OB
+17:49:51 -I- ......found 1 cc's 
+17:49:51 -I- ......filtered 0 cc's
+17:49:51 -I- ......pruned 1 nodes
+17:49:51 -I- ...working on OG
+17:49:51 -I- ......found 4 cc's 
+17:49:51 -I- ......filtered 0 cc's
+17:49:51 -I- ......pruned 0 nodes
+17:49:51 -I- ...working on OO
+17:49:51 -I- ......found 105 cc's 
+17:49:51 -I- ......filtered 102 cc's
+17:49:51 -I- ......pruned 45 nodes
+17:49:51 -I- ...working on OP
+17:49:51 -I- ......found 34 cc's 
+17:49:51 -I- ......filtered 32 cc's
+17:49:51 -I- ......pruned 28 nodes
+17:49:51 -I- ...working on PB
+17:49:51 -I- ......found 110 cc's 
+17:49:51 -I- ......filtered 107 cc's
+17:49:51 -I- ......pruned 63 nodes
+17:49:51 -I- ...working on PG
+17:49:51 -I- ......found 64 cc's 
+17:49:51 -I- ......filtered 61 cc's
+17:49:51 -I- ......pruned 53 nodes
+17:49:51 -I- ...working on PO
+17:49:51 -I- ......found 110 cc's 
+17:49:51 -I- ......filtered 107 cc's
+17:49:51 -I- ......pruned 63 nodes
+17:49:51 -I- ...working on PP
+17:49:51 -I- ......found 36 cc's 
+17:49:51 -I- ......filtered 35 cc's
+17:49:51 -I- ......pruned 9 nodes
+17:49:51 -I- Propagation loops
+17:49:52 -I-     ...assigned 227 tracklets
+17:49:52 -I-     ...assigned 0 tracklets
+17:49:52 -I- Biconnected components condition (positive)
+17:49:52 -I-     ...assigned 72 tracklets
+17:49:53 -I-     ...assigned 0 tracklets
+17:49:53 -I- More propagation loops
+17:49:53 -I-     ...assigned 0 tracklets
+17:49:53 -I- Filtering by connected componnets
+17:49:53 -I- ...working on BB
+17:49:53 -I- ......found 1 cc's 
+17:49:53 -I- ......filtered 0 cc's
+17:49:53 -I- ......pruned 0 nodes
+17:49:53 -I- ...working on BG
+17:49:53 -I- ......found 2 cc's 
+17:49:53 -I- ......filtered 0 cc's
+17:49:53 -I- ......pruned 0 nodes
+17:49:53 -I- ...working on BO
+17:49:53 -I- ......found 1 cc's 
+17:49:53 -I- ......filtered 0 cc's
+17:49:53 -I- ......pruned 0 nodes
+17:49:53 -I- ...working on BP
+17:49:53 -I- ......found 1 cc's 
+17:49:53 -I- ......filtered 0 cc's
+17:49:53 -I- ......pruned 0 nodes
+17:49:53 -I- ...working on GB
+17:49:53 -I- ......found 2 cc's 
+17:49:53 -I- ......filtered 0 cc's
+17:49:53 -I- ......pruned 0 nodes
+17:49:53 -I- ...working on GG
+17:49:53 -I- ......found 14 cc's 
+17:49:53 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on GO
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on GP
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on OB
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on OG
+17:49:54 -I- ......found 4 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on OO
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on OP
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on PB
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on PG
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on PO
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- ...working on PP
+17:49:54 -I- ......found 1 cc's 
+17:49:54 -I- ......filtered 0 cc's
+17:49:54 -I- ......pruned 0 nodes
+17:49:54 -I- Assigning ids to tracklets
+17:49:54 -I- Extracting xy data
+17:49:58 -I- Loading tracklet data for movie 1
+17:50:01 -I- Loading tracklet data for movie 2
+17:50:04 -I- Loading tracklet data for movie 3
+17:50:10 -I- Loading tracklet data for movie 4
+17:50:13 -I- Loading tracklet data for movie 5
+17:50:16 -I- Loading tracklet data for movie 6
+17:50:18 -G- Done

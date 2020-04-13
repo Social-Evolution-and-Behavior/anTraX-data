@@ -1,0 +1,14 @@
+15:56:31 -I- Reading video information from file
+15:56:33 -I- Linking method is link_blobs
+15:56:33 -I- Starting the frame loop
+15:56:33 -I- opening video file /Users/asaf/Box Sync/anTraX/datasets/JS16/videos//1_6/JS16_6.mp4
+15:58:37 -I- Finished tracking frame #16000 (1000/3000)
+16:00:47 -I- Finished tracking frame #17000 (2000/3000)
+16:02:41 -I- Finished tracking frame #18000 (3000/3000)
+16:02:41 -I- Finished frame loop, cleaning up
+16:02:42 -I- Closed tracklet graph object
+16:02:42 -I- ... movies 6
+16:02:42 -I- ... 172 tracklets
+16:02:42 -I- Looking for bottleneck pairs
+16:02:43 -I- done distance mat
+16:02:43 -G- Done!

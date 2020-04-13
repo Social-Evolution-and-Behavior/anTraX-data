@@ -1,0 +1,35 @@
+
+# Compiled python modules.
+*.pyc
+
+# matlab autosave files
+*.m~
+
+# matlab compiled mex
+*.mex*
+
+*.DS_Store
+
+*.idea/*
+
+*/.ipynb_checkpoints/*
+
+*__pycache__*
+
+*.xml
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+*.egg-info*
+
+matlab1/*
+
+
+bin/run_*.sh
+bin/mcc*
+bin/readme*
+bin/required*
+
+site/*
