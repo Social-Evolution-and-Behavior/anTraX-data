@@ -2,4 +2,4 @@
 
 # **anTraX** - example dataset
 
-This repository contains a dataset for testing anTraX. 
+This repository contains a dataset for testing anTraX. anTraX software itself can be found [here](https://github.com/Social-Evolution-and-Behavior/anTraX).
